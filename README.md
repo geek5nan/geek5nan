@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geek5nan
-- 👀 I’m interested in Mobile Development.
+- 👀 I’m interested in Android Development.
 - 📫 How to reach me 
-  - twitter.com/geek5nan
+  - https://twitter.com/geek5nan
   - https://blog.devwu.com
 
 <!---
